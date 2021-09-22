@@ -1,5 +1,5 @@
 # StockPrice
-Problem Statement : Build a system that streams stock pricing information for various stocks at different times and then notifies the stakeholders when the values cross specific points of interest (POIs). Used the Yahoo Finance APIs to query the running price of stocks and general information like 52-week high/low values.
+Problem Statement : Build a cloud based system that streams stock pricing information for various stocks at different times and then notifies the stakeholders when the values cross specific points of interest (POIs). Used the Yahoo Finance APIs to query the running price of stocks and general information like 52-week high/low values.
 
 Yahoo Finance API - It provides functions to download historical market data from Yahoo!
 finance. While this functionality in production would generally run on a paid api that provides
